@@ -1,2 +1,2 @@
 # Utilities
-Learning something New
+Learn something New
